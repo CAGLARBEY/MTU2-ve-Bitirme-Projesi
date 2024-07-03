@@ -1,2 +1,1 @@
-# MTU2-ve-Bitirme-Projesi
-Proje kodları 
+Robot kol kullanarak hem görüntü işleme hem de makine öğrenmesinden yararlanılarak kutuların büyük veya küçük olduğunu algılayan robotik sistem tasarımıdır.
